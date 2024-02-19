@@ -12,10 +12,4 @@
 // }
 // console.log(JsUser.greeting());
 
-//object sington
-
-const UerId = new Object()
-
-UerId.id="123"
-UerId.name="raghav"
-console.log(UerId)
+//object sin
